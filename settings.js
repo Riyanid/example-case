@@ -14,12 +14,12 @@ global.namabot = "RubotX - MD"
 global.namaowner = "@iyans"
 global.packname = RubotX - MD
 global.author = @iyans
-global.myweb = "https://s.id/zeeoneofc"
+global.myweb = "https://riyanid.github.io"
 global.footer_text = "© " + RubotX
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
-global.pairingNumber = "" //pairing number to install bot 
+global.owner = ['6285711450232']
+global.pairingNumber = "6281559689329" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
@@ -49,8 +49,6 @@ global.help = {
 menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerName, botName, jam, tanggal, runtime, prefix){
   return `${salam.slice(0,1).toUpperCase() + salam.slice(1)} ${pushname}
 
-*HITUNG MUNDUR IDUL FITRI 🌜*
- ${mundur}
 
 ╭✄┈┈┈⟬ *STATISTIC* ⟭
 ┆❐ Upload : ${upload}
